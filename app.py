@@ -48,7 +48,7 @@ def show_result(image,filename=None):
 
     with col1:
         caption=filename if filename else "Citra yang diunggah"
-        st.image(image,caption=caption,use_container_width=True)
+        st.image(image,caption=caption,width="stretch")
 
     with col2:
         st.metric("Confidence",f"{confidence:.2%}")
