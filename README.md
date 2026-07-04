@@ -1,2 +1,1 @@
-# batik-nitik
-KLASIFIKASI MOTIF BATIK NITIK MENGGUNAKAN SHUFFLENETV2 BERBASIS TRANSFER LEARNING
+# Klasifikasi Motif Batik Nitik Menggunakan ShuffleNetV2 Berbasis Transfer Learning
