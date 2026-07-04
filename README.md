@@ -21,16 +21,16 @@ Batik Nitik merupakan salah satu motif batik khas Yogyakarta. Proyek ini merupak
 |---|---|
 | Arsitektur | ShuffleNetV2 x1.0 |
 | Dataset Pelatihan | Batik Nitik 960 (60 kelas) |
-| Jumlah Parameter | [isi sesuai output notebook] |
-| Ukuran Model | [isi sesuai ukuran file .pth] |
+| Jumlah Parameter | 1.3151 |
+| Ukuran Model | 5.3MB |
  
 ## Instalasi Lokal
  
 Klon repositori ini:
  
 ```bash
-git clone https://github.com/username/batik-nitik-app.git
-cd batik-nitik-app
+git clone https://github.com/username/batik-nitik.git
+cd batik-nitik
 ```
  
 Instal dependensi:
