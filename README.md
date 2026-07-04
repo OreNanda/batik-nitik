@@ -2,7 +2,7 @@
 
 Aplikasi web berbasis Streamlit untuk mengklasifikasikan motif Batik Nitik menggunakan model deep learning ShuffleNetV2. Pengguna dapat mengunggah citra batik dan memperoleh hasil klasifikasi motif beserta tingkat keyakinan (confidence) secara langsung.
 
-Coba aplikasinya:
+Link: https://batik-nitik.streamlit.app/
 
 ## Tentang
 
